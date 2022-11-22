@@ -3,7 +3,8 @@
    Title of the Experiment: First in First out program
    Date of Creation: 22-11-2022
    Date of Execution: 22-11-2022
-*/#include<stdio.h>
+*/
+#include<stdio.h>
 #include<conio.h> int fr[3];
 void main()
 {
