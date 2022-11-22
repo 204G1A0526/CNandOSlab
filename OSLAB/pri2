@@ -1,0 +1,5 @@
+<pre>Enter the number of processes --- 0
+
+PROCESS		PRIORITY	BURST TIME	WAITING TIME	TURNAROUNDTIME
+Average Waiting Time is --- -nan
+AverageTurnaround Time is --- inf</pre>
