@@ -1,0 +1,9 @@
+<pre>Enter no of jobs: 2
+Enter name and time: chandu
+7 
+Enter name and time: jo
+2
+Enter the available resources:2
+No safe sequence
+Safe sequence is: 2
+</pre>
